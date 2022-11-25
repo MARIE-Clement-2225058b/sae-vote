@@ -17,7 +17,7 @@ void affichVector (const vector <type> & V)
 }
 
 //Création d'une fonction permettant de trouver l'indice d'un élément dans un tableau, renvoie la taille sinon
-unsigned findIndex (const vector<float> & vect , const unsigned & val)
+unsigned findIndex (const vector<unsigned> & vect , const unsigned & val)
 {
     for (unsigned i(0) ; i < vect.size() ; ++i)
         if (vect[i] == val)
@@ -61,7 +61,7 @@ void recupVote (vecStr & tabNomVotant , matUInt & tabVote)
 void voteParValeur (const matUInt & votes , const vecStr & tabCandidat)
 {
     //Déclaration du tableau accueillant les notes de chaque candidat
-    vector<float> notes (votes.size() , 0) ;
+    vector<unsigned> notes (votes.size() , 0) ;
     //Deux boucles imbriquées pour récupérer l'intégralité des votes donnés et les additionner pour obtenir les notes en question
     for (unsigned i(0) ; i < votes.size() ; ++i)
     {
