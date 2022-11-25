@@ -47,7 +47,7 @@ void recupVote (vecUInt & tabVote, vecStr & tabVotant)
     }
 }
 
-void voteFr (const vecStr & tabCandidatTour1, vecStr & tabCandidatTour2, const vecUInt & tabVote) 
+void voteMajoritaire (const vecStr & tabCandidatTour1, vecStr & tabCandidatTour2, const vecUInt & tabVote) 
 {
     vecUInt tabScore (tabCandidatTour1.size(), 0); // création du tableau tabScore de taille tabCandidatTour1
     for (size_t i (0) ; i < tabVote.size() ; ++i)
@@ -88,9 +88,9 @@ int main()
     recupCandidat(tabCandidatTour1); // récupération des candidat dans tabCandidatTour1 pour le 1er tour 
     recupVote(tabVoteTour1, tabVotant); // récupération des votes dans tabVoteTour1 et des noms des votants dans tabVotant
     cout << "---- Tour 1 ----"<< endl; // affichage de "---- Tour 1 ----" puis saut de ligne 
-    voteFr(tabCandidatTour1, tabCandidatTour2, tabVoteTour1); // résultat du tour 1
+    voteMajoritaire(tabCandidatTour1, tabCandidatTour2, tabVoteTour1); // résultat du tour 1
     // initialisation tour 2
     recupVote(tabVoteTour2, tabVotant); // récupération des votes du 2ème tour 
     cout << "---- Tour 2 ----"<< endl; // affichage de "---- Tour 2 ----" puis saut de ligne 
-    voteFr(tabCandidatTour2, tabCandidatTour2, tabVoteTour2); // résultat du tour 2
+    voteMajoritaire(tabCandidatTour2, tabCandidatTour2, tabVoteTour2); // résultat du tour 2
 }
