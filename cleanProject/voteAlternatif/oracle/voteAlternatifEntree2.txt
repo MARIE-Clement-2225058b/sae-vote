@@ -1,0 +1,344 @@
+Genshin Impact
+Pokemon ecarlate et violet
+Zelda BOTW
+MHW
+
+ALI
+Mdallah
+2 1 3 4
+AMETTLER
+Thibault
+3 1 2 4
+ATROKHOV
+Alexis
+2 4 1 3
+ATTAR
+Mohamed-Nadir
+1 4 3 2
+AVENA
+Clement
+2 1 4 3
+BACHAR
+Bilal
+3 4 1 2
+BADJOUDJ 
+Hana
+1 2 3 4
+BAMAS
+Mathias
+4 2 1 3
+BARROSO YELMO
+Mathias
+4 3 1 2
+BARTE
+Antonin
+2 4 3 1
+BAUDOUY
+Ugo
+4 1 3 2
+BEAUQUIER
+Quentin
+1 2 4 3
+BEDDIAF
+Miloud
+3 1 2 4
+BEDOS
+Enzo
+1 3 2 4
+BELABBAS
+Rayane
+4 2 1 3
+BENDJEDDOU
+Rayan
+1 3 2 4
+BENLAKHLEF
+Medhi
+4 2 3 1
+BERGERON
+Alexandre
+2 1 4 3
+BIHI
+Ayoub
+1 2 3 4
+BOINAALI
+Chris
+2 4 1 3
+BOSSO
+Gavril
+1 3 4 2
+BOUGEARD
+Bastien
+4 2 3 1
+BOUT
+Thomas
+3 1 2 4
+BOUYEDA
+Remi
+4 1 2 3
+BRADAI
+Chiheb
+3 4 1 2
+BRAHMI
+Moundir
+2 4 3 1
+BRUNET
+Ronan
+1 3 2 4
+CANO
+Vincent
+1 4 3 2
+CARON
+Pierrick
+4 2 1 3
+CARVAJAL
+Tom
+4 3 1 2
+CHOPARD
+William
+2 4 3 1
+CLEMENT
+Amadeus
+2 1 4 3
+COMBELONGE
+Enzo
+3 4 2 1
+CRESPIN
+Alexandre
+3 2 1 4
+DA SILVA SANTOS
+Lucas
+2 3 1 4
+DAW
+Charles
+1 4 2 3
+DE ANGELI
+Adam
+1 2 3 4
+DE SOUSA GUEDES
+Raphael
+1 2 3 4
+DEGANO
+Matteo
+3 2 4 1
+DELIN
+Alexis
+3 4 1 2
+DELIN
+Maxime
+3 2 4 1
+DELMAS
+Mathis
+1 2 3 4
+DIOP
+Sokhna
+2 4 3 1
+DITLECADET
+Michael
+2 3 1 4
+DOLCE
+Lino
+1 2 4 3
+DUROISIN
+Tom
+3 1 2 4
+ESSALHI
+Ayoub
+4 2 1 3
+EVEN
+Tom
+4 1 2 3
+FALFERI
+Gabin
+4 2 1 3
+FARDOUX
+Theo
+3 4 2 1
+FERRANDO
+Alexis
+4 1 2 3
+FERRIER
+Killian
+3 1 2 4
+FLORIS-MIALHE
+Axel
+3 1 4 2
+FREDDI
+Logan
+1 4 2 3
+GINER
+Leo
+4 1 2 3
+GIORDANO
+Yoann
+3 4 2 1
+GIRODENGO
+Camille
+3 2 1 4
+GODINAUD
+Maïlys
+2 3 1 4
+GOUACHE
+Nathan
+4 3 1 2
+HARICOT
+Pierre
+3 4 1 2
+HENRICY
+Noah
+1 3 2 4
+HOSPITAL
+Jules
+3 2 1 4
+HOURLAY
+Enzo
+3 4 1 2
+IKHERBANE
+Sami
+4 1 2 3
+JAURAS
+Maxime
+1 3 4 2
+KHADRAOUI
+Sabri
+4 3 1 2
+KUZMENKO
+Yehor
+4 3 2 1
+LARTIGAUD
+Elliot
+1 3 2 4
+LEBRUN
+Noa
+1 3 4 2
+LEPERLIER
+Mael
+2 3 4 1
+LEROUGE
+Robin
+4 2 3 1
+LEROUX
+Mathieu
+2 3 1 4
+LESTRELIN
+Valentin
+1 3 2 4
+LIETO
+Myke
+3 4 1 2
+LIMOSANI
+Francesco
+3 4 2 1
+LOUARN
+Mathis
+1 3 2 4
+MAGNAN
+Lukas
+2 3 4 1
+MAOULIDA ATTOUMANI
+Yazid-Raoul
+1 2 4 3
+MARIE
+Clement
+2 3 4 1
+MARTINEZ
+Romain
+1 3 2 4
+MESLI
+Mohamed
+2 3 4 1
+MISIEK
+Romain
+3 1 4 2
+MOMY
+Aurore
+3 4 2 1
+MONTANARD
+Hugo
+2 1 4 3
+N' GUYEN
+Lucas
+2 3 1 4
+NARDI
+Fabio
+2 3 4 1
+OGER
+Leo
+3 4 2 1
+PIOCT
+Rayan
+2 4 3 1
+PONOMARENKO
+Edouard
+2 3 4 1
+PORTELLI
+Angelo
+2 4 3 1
+POSSENTI
+Alexandre
+1 3 4 2
+RAMILSON
+Lorys
+2 1 3 4
+RIPOCHE
+Sarah
+4 1 3 2
+ROSSI
+Valentin
+2 1 4 3
+ROUBAUD
+Axel
+4 3 2 1
+ROUGE
+Gabriel
+2 3 1 4
+ROUSSET
+Antonin
+2 3 1 4
+RUGIERO
+Tymeo
+1 3 2 4
+SAFRAN
+Yoni
+3 4 1 2
+SALA-MOCHIZUKI
+Yuki
+2 4 3 1
+SALOMON
+Clement
+3 1 4 2
+SANTOS
+Audran
+3 4 2 1
+SCIACCA
+Matteo
+4 2 1 3
+SEJOURNE
+Victor
+2 4 3 1
+SOLLE
+Mathis
+3 2 4 1
+SOUDANI REGUIG
+Lyes-Yacine
+3 2 1 4
+STROPPIANA
+Damien
+2 1 4 3
+TAMARIN
+Maxime
+2 3 1 4
+THIEL
+Maxime
+3 4 1 2
+TORRES
+Julien
+3 4 2 1
+VINCENT
+Erwan
+3 4 2 1
+ZAINA
+Elias
+3 2 4 1
+ZOPPI
+Lucie
+2 1 3 4

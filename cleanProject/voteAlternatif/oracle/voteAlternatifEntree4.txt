@@ -1,0 +1,346 @@
+genshin
+zelda
+mhw
+pokemon
+skyrim
+nfs
+
+ALI
+Mdallah
+2 4 5 3 6 1
+AMETTLER
+Thibault
+5 4 1 6 2 3
+ATROKHOV
+Alexis
+2 3 5 4 6 1
+ATTAR
+Mohamed-Nadir
+1 4 2 3 6 5
+AVENA
+Clement
+6 2 5 4 3 1
+BACHAR
+Bilal
+4 2 1 5 3 6
+BADJOUDJ 
+Hana
+3 4 5 2 1 6
+BAMAS
+Mathias
+2 3 1 4 6 5
+BARROSO YELMO
+Mathias
+5 2 3 6 4 1
+BARTE
+Antonin
+6 4 1 5 3 2
+BAUDOUY
+Ugo
+2 4 1 6 3 5
+BEAUQUIER
+Quentin
+5 4 1 6 2 3
+BEDDIAF
+Miloud
+4 5 2 6 3 1
+BEDOS
+Enzo
+2 1 4 6 3 5
+BELABBAS
+Rayane
+2 6 4 5 1 3
+BENDJEDDOU
+Rayan
+6 1 3 4 2 5
+BENLAKHLEF
+Medhi
+3 2 5 1 4 6
+BERGERON
+Alexandre
+5 4 3 2 1 6
+BIHI
+Ayoub
+1 6 5 3 2 4
+BOINAALI
+Chris
+3 4 2 6 1 5
+BOSSO
+Gavril
+5 6 3 4 2 1
+BOUGEARD
+Bastien
+6 3 2 4 5 1
+BOUT
+Thomas
+2 3 4 6 1 5
+BOUYEDA
+Remi
+5 3 4 1 2 6
+BRADAI
+Chiheb
+1 2 4 5 6 3
+BRAHMI
+Moundir
+3 4 2 6 1 5
+BRUNET
+Ronan
+2 5 6 4 3 1
+CANO
+Vincent
+2 1 4 6 3 5
+CARON
+Pierrick
+6 4 5 2 1 3
+CARVAJAL
+Tom
+3 2 4 1 5 6
+CHOPARD
+William
+3 2 5 4 6 1
+CLEMENT
+Amadeus
+4 6 5 1 2 3
+COMBELONGE
+Enzo
+5 6 1 4 3 2
+CRESPIN
+Alexandre
+4 6 1 5 2 3
+DA SILVA SANTOS
+Lucas
+5 3 2 4 6 1
+DAW
+Charles
+1 6 4 5 2 3
+DE ANGELI
+Adam
+5 6 2 3 4 1
+DE SOUSA GUEDES
+Raphael
+5 2 6 3 1 4
+DEGANO
+Matteo
+5 6 4 3 1 2
+DELIN
+Alexis
+6 3 5 4 1 2
+DELIN
+Maxime
+3 2 4 5 1 6
+DELMAS
+Mathis
+6 1 4 3 5 2
+DIOP
+Sokhna
+2 5 6 1 4 3
+DITLECADET
+Michael
+2 6 1 4 3 5
+DOLCE
+Lino
+1 6 3 4 5 2
+DUROISIN
+Tom
+1 4 5 6 3 2
+ESSALHI
+Ayoub
+2 1 4 3 6 5
+EVEN
+Tom
+4 2 5 6 1 3
+FALFERI
+Gabin
+3 6 1 4 5 2
+FARDOUX
+Theo
+2 6 4 5 3 1
+FERRANDO
+Alexis
+1 4 3 2 6 5
+FERRIER
+Killian
+6 5 1 3 4 2
+FLORIS-MIALHE
+Axel
+4 3 2 6 1 5
+FREDDI
+Logan
+2 5 3 1 6 4
+GINER
+Leo
+3 5 6 1 2 4
+GIORDANO
+Yoann
+6 5 3 4 1 2
+GIRODENGO
+Camille
+4 1 5 6 3 2
+GODINAUD
+Maïlys
+2 3 6 1 4 5
+GOUACHE
+Nathan
+4 2 3 1 5 6
+HARICOT
+Pierre
+4 2 5 1 6 3
+HENRICY
+Noah
+4 2 5 3 6 1
+HOSPITAL
+Jules
+2 3 1 5 6 4
+HOURLAY
+Enzo
+6 5 3 1 4 2
+IKHERBANE
+Sami
+2 6 5 3 4 1
+JAURAS
+Maxime
+3 5 2 4 1 6
+KHADRAOUI
+Sabri
+4 1 5 3 2 6
+KUZMENKO
+Yehor
+4 5 2 1 3 6
+LARTIGAUD
+Elliot
+3 1 5 2 4 6
+LEBRUN
+Noa
+1 6 2 3 5 4
+LEPERLIER
+Mael
+5 4 6 3 2 1
+LEROUGE
+Robin
+1 5 6 2 3 4
+LEROUX
+Mathieu
+2 6 1 4 5 3
+LESTRELIN
+Valentin
+6 5 4 2 3 1
+LIETO
+Myke
+3 6 5 4 1 2
+LIMOSANI
+Francesco
+4 5 1 3 2 6
+LOUARN
+Mathis
+1 3 5 4 6 2
+MAGNAN
+Lukas
+2 5 4 1 3 6
+MAOULIDA ATTOUMANI
+Yazid-Raoul
+1 5 6 2 4 3
+MARIE
+Clement
+3 4 6 5 2 1
+MARTINEZ
+Romain
+6 3 2 1 5 4
+MESLI
+Mohamed
+1 3 4 2 5 6
+MISIEK
+Romain
+4 5 3 6 1 2
+MOMY
+Aurore
+4 2 1 3 6 5
+MONTANARD
+Hugo
+6 3 4 2 1 5
+N' GUYEN
+Lucas
+5 3 4 6 2 1
+NARDI
+Fabio
+6 5 4 1 3 2
+OGER
+Leo
+3 1 4 5 6 2
+PIOCT
+Rayan
+6 3 1 2 5 4
+PONOMARENKO
+Edouard
+6 4 3 5 1 2
+PORTELLI
+Angelo
+6 1 4 2 3 5
+POSSENTI
+Alexandre
+3 4 5 2 6 1
+RAMILSON
+Lorys
+4 2 6 5 1 3
+RIPOCHE
+Sarah
+5 2 6 3 1 4
+ROSSI
+Valentin
+6 2 1 5 3 4
+ROUBAUD
+Axel
+5 2 1 4 3 6
+ROUGE
+Gabriel
+2 5 1 6 3 4
+ROUSSET
+Antonin
+4 5 6 2 3 1
+RUGIERO
+Tymeo
+6 3 5 2 1 4
+SAFRAN
+Yoni
+3 1 2 4 5 6
+SALA-MOCHIZUKI
+Yuki
+5 2 3 6 4 1
+SALOMON
+Clement
+2 4 5 1 6 3
+SANTOS
+Audran
+2 1 5 6 3 4
+SCIACCA
+Matteo
+4 6 3 1 2 5
+SEJOURNE
+Victor
+3 1 6 2 4 5
+SOLLE
+Mathis
+2 1 6 4 3 5
+SOUDANI REGUIG
+Lyes-Yacine
+5 1 2 4 3 6
+STROPPIANA
+Damien
+5 6 4 3 1 2
+TAMARIN
+Maxime
+3 5 6 1 2 4
+THIEL
+Maxime
+1 3 2 5 4 6
+TORRES
+Julien
+2 5 6 1 4 3
+VINCENT
+Erwan
+2 1 5 4 6 3
+ZAINA
+Elias
+5 3 2 1 4 6
+ZOPPI
+Lucie
+4 5 3 2 6 1

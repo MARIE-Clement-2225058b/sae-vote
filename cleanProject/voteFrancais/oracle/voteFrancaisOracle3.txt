@@ -1,0 +1,23 @@
+---- Tour 1 ----
+--- Score ---
+Blanc = 27
+CS GO = 21
+Street Fighter II = 19
+Mario Kart = 21
+Civilisation VI = 25
+--- Position ---
+Blanc = 0
+CS GO = 4
+Street Fighter II = 1
+Mario Kart = 3
+Civilisation VI = 2
+---- Tour 2 ----
+--- Score ---
+Blanc = 32
+Civilisation VI = 38
+CS GO = 43
+--- Position ---
+Blanc = 0
+Civilisation VI = 2
+CS GO = 1
+Le gagnant est : CS GO
