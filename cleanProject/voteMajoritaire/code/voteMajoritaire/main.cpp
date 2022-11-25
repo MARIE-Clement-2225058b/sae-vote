@@ -43,7 +43,7 @@ void recupVote (vecUInt & tabVote, vecStr & tabVotant)
         tabVotant.push_back(nomVotant + " " + prenomVotant); // ajout du nom et prénom du votant dans tabVotant
         cin >> vote; // récupération du vote
         tabVote.push_back(vote); // ajout du vote dans tabVote
-        getline(cin,buf); // récupération 
+        getline(cin,buf); // saut de ligne
     }
 }
 
