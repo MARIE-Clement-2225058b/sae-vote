@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -10,6 +10,7 @@ typedef vector<unsigned> vecUInt;
 //récupération des candiats
 void recupCandidat (vecStr & tabCandi){
     string nomCandi;
+    tabCandi.push_back("Blanc");
     while (true){
         getline(cin, nomCandi);
         if (nomCandi == "")break;
